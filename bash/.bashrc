@@ -1,0 +1,1 @@
+Export PATH=$PATH:~/bin
